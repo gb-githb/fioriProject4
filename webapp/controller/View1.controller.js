@@ -11,6 +11,7 @@ sap.ui.define([
 			onInit: function () {
 console.log("New change");
 console.log("New change in child branch");
+console.log("New commit from child branch");
 
 			}
 		});
