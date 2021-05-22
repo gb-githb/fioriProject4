@@ -10,6 +10,8 @@ sap.ui.define([
 		return Controller.extend("project4.controller.View1", {
 			onInit: function () {
 console.log("New change");
+console.log("New change in child branch");
+
 			}
 		});
 	});
